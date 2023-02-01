@@ -1,0 +1,11 @@
+body {
+    text-transform:uppercase;
+    text-decoration: overline;
+    cursor: pointer;
+    border-style: dotted;
+    border-top-style: dashed;
+    border-right-style: dotted;
+    border-bottom-style: double;
+    border-left-style: solid;
+    font-size: 100px;
+}
